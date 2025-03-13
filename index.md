@@ -2,5 +2,6 @@
 ''' python
 #### code block example
 a=10
-b=10
+b=int(inputS())
 print(a,b)
+'''
